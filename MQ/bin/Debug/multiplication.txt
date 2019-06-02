@@ -1,0 +1,25 @@
+Read
+Store A
+Read
+Store B
+Push 0
+Store C
+Label Loop
+Push 1
+Load A
+Sub
+Store A
+Push 0
+Load A
+Ge
+Gotof Fim
+Load C
+Load B
+Add
+Store C
+Push True
+Goto Loop
+Label Fim
+Load C
+Print 
+End

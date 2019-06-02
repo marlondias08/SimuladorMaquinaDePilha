@@ -1,0 +1,13 @@
+c:\users\marlon\documents\visual studio 2015\Projects\MQ\MQ\bin\Debug\MQ.exe.config
+C:\Users\Marlon\documents\visual studio 2015\Projects\MQ\MQ\obj\Debug\MQ.csprojResolveAssemblyReference.cache
+C:\Users\Marlon\documents\visual studio 2015\Projects\MQ\MQ\bin\Debug\MQ.exe
+C:\Users\Marlon\documents\visual studio 2015\Projects\MQ\MQ\bin\Debug\MQ.pdb
+C:\Users\Marlon\documents\visual studio 2015\Projects\MQ\MQ\obj\Debug\MQ.exe
+C:\Users\Marlon\documents\visual studio 2015\Projects\MQ\MQ\obj\Debug\MQ.pdb
+C:\Users\Marlon Dias\Downloads\MQ\MQ\bin\Debug\MQ.exe.config
+C:\Users\Marlon Dias\Downloads\MQ\MQ\bin\Debug\MQ.exe
+C:\Users\Marlon Dias\Downloads\MQ\MQ\bin\Debug\MQ.pdb
+C:\Users\Marlon Dias\Downloads\MQ\MQ\obj\Debug\MQ.csprojAssemblyReference.cache
+C:\Users\Marlon Dias\Downloads\MQ\MQ\obj\Debug\MQ.csproj.CoreCompileInputs.cache
+C:\Users\Marlon Dias\Downloads\MQ\MQ\obj\Debug\MQ.exe
+C:\Users\Marlon Dias\Downloads\MQ\MQ\obj\Debug\MQ.pdb
